@@ -1,0 +1,8 @@
+prefix=/home/sanchit/catkin_ws/src/robotic_arm_description/robotic_arm_description/build/devel
+
+Name: robotic_arm_description
+Description: Description of robotic_arm_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy std_msgs

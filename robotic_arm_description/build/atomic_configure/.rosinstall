@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sanchit/catkin_ws/src/robotic_arm_description/robotic_arm_description/build/devel/setup.sh

@@ -1,0 +1,11 @@
+controller_list:
+ - name: arm_group_controller
+   action_ns: follow_joint_trajectory
+   type: FollowJointTrajectory
+   joints: 
+    - Revolute_12
+    - Revolute_13
+    - Revolute_14
+    - Revolute_15
+    - Revolute_16
+    - Revolute_17

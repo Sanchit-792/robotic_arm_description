@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++ -fPIC -g  -shared -Wl,-soname,libgmock_maind.so -o ../lib/libgmock_maind.so CMakeFiles/gmock_main.dir/src/gmock_main.cc.o  -Wl,-rpath,/home/sanchit/catkin_ws/src/robotic_arm_description/robotic_arm_description/build/gtest/lib ../lib/libgmockd.so ../lib/libgtestd.so -lpthread 

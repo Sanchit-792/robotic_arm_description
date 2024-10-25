@@ -1,0 +1,13 @@
+controller_list:
+  - name: fake_arm_group_controller
+    type: $(arg fake_execution_type)
+    joints:
+      - Revolute_12
+      - Revolute_13
+      - Revolute_14
+      - Revolute_15
+      - Revolute_16
+      - Revolute_17
+initial:  # Define initial robot poses per group
+  - group: arm_group
+    pose: straight_up_pose

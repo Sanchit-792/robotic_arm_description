@@ -9,23 +9,23 @@ arm_group_controller:
     - Revolute_17
   gains:
     Revolute_12:
-      p: 100
-      d: 1
+      p: 350
+      d: 100
       i: 1
       i_clamp: 1
     Revolute_13:
-      p: 100
-      d: 1
+      p: 350
+      d: 100
       i: 1
       i_clamp: 1
     Revolute_14:
-      p: 100
-      d: 1
+      p: 350
+      d: 100
       i: 1
       i_clamp: 1
     Revolute_15:
-      p: 100
-      d: 1
+      p: 350
+      d: 100
       i: 1
       i_clamp: 1
     Revolute_16:
